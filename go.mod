@@ -1,3 +1,3 @@
-module github.com/sf1/go-card
+module github.com/marknijboer/go-card
 
 go 1.16
