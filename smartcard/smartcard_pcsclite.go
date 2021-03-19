@@ -5,7 +5,7 @@ package smartcard
 import (
 	"time"
 
-	"github.com/sf1/go-card/smartcard/pcsc"
+	"github.com/marknijboer/go-card/smartcard/pcsc"
 )
 
 // A smart card context is required to access readers and cards.
