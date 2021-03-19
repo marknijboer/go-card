@@ -1,3 +1,3 @@
 module github.com/sf1/go-card
 
-go 1.12
+go 1.16
